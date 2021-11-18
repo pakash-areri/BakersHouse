@@ -22,6 +22,16 @@
 		font-family:Algerian;
 	}
   </style>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2YSY7BEV11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2YSY7BEV11');
+</script>
+
   </head>
   
   <body style="background-image: url('http://www.simpleimageresizer.com/_uploads/photos/b85e9004/miti-qYreP9QOdrk-unsplash_1_1680x1100.jpg');">
