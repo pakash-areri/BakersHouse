@@ -25,6 +25,16 @@
   background:transparent url('http://www.simpleimageresizer.com/_uploads/photos/92913e4e/jonathan-taylor-2q8P-sEZjLk-unsplash_500x700.jpg') no-repeat center center /cover;
 }
   </style>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2YSY7BEV11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2YSY7BEV11');
+</script>
+
   </head>
  <body>
 
