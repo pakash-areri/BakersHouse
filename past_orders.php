@@ -21,17 +21,15 @@ h2{
 h3{
 	font-family:Cooper Black;
 }
-</style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2YSY7BEV11"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ELTHL3T63K"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-2YSY7BEV11');
+  gtag('config', 'G-ELTHL3T63K');
 </script>
-
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
