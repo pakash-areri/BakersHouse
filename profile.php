@@ -21,15 +21,14 @@
 	h2{
 		font-family:Algerian;
 	}
-  </style>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2YSY7BEV11"></script>
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ELTHL3T63K"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-2YSY7BEV11');
+  gtag('config', 'G-ELTHL3T63K');
 </script>
 
   </head>
